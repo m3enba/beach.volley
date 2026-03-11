@@ -22,3 +22,10 @@ export default defineConfig(({mode}) => {
     },
   };
 });
+import { defineConfig } from 'vite'
+// ... your existing imports
+
+export default defineConfig({
+  base: '/beach.volley/',     // <-- ADD THIS LINE
+  // ... your other config (plugins, etc.)
+})
