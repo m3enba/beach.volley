@@ -1,0 +1,5 @@
+{
+  "name": "Beach Volley 3D",
+  "description": "A fully functional 3D beach volleyball game with physics-based gameplay, AI opponent, and context-sensitive controls.",
+  "requestFramePermissions": []
+}
